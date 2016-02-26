@@ -78,6 +78,7 @@ _346 TILs and counting..._
 - [Checkout Previous Branch](git/checkout-previous-branch.md)
 - [Clean Out All Local Branches](git/clean-out-all-local-branches.md)
 - [Clean Up Old Remote Tracking References](git/clean-up-old-remote-tracking-references.md)
+- [Create A New Repository From An Existing](git/create-new-repository-from-existing.md)
 - [Delete All Untracked Files](git/delete-all-untracked-files.md)
 - [Determine The Hash Id For A Blob](git/determine-the-hash-id-for-a-blob.md)
 - [Dry Runs in Git](git/dry-runs-in-git.md)
